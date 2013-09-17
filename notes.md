@@ -9,11 +9,14 @@
 
 ## Control Non-determinism
 
-Over time, we have adopted and recommend three different strategies: (a) use
+> Over time, we have adopted and recommend three different strategies: (a) use
 deterministic replay of optimization plans, which requires JVM support, (b) take
 multiple measurements in a single JVM invocation, after reaching steady state
 and turning off the JIT compiler, and (c) generate sufficient data points and
 apply suitable statistical analysis.
+
+-- Wake Up and Smell the Coffee: Evaluation Methodology for the
+21st Century
 
 # Metrics
 
@@ -29,14 +32,14 @@ apply suitable statistical analysis.
 > the key control variable. The smaller the heap size, the more often the
 > garbage collector will be invoked and the more work it will perform.
 
-              - Wake Up and Smell the Coffee: Evaluation Methodology for the
-                21st Century
+-- Wake Up and Smell the Coffee: Evaluation Methodology for the
+21st Century
 
 > Sound methodology includes using appropriate workloads, principled
 > experimental design, and rigorous analysis.
 
-              - Wake Up and Smell the Coffee: Evaluation Methodology for the
-                21st Century
+-- Wake Up and Smell the Coffee: Evaluation Methodology for the
+21st Century
 
 
 # Pick non trivial app :
