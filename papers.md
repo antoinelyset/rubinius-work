@@ -7,7 +7,6 @@ Notable papers for performance evaluation:
 - [ ] _Rare Are GC Talks_ [link](http://furious-waterfall-55.heroku.com/ruby-guide/internals/gc.html)
 - [ ] _Down the rb_newobj() Rabbit Hole_ [link](https://speakerdeck.com/amateurhuman/down-the-rb-newobj-rabbit-hole)
 
-
 **Caveats:** This list is not exhaustive nor are the papers necessarily correct.
 
 **Notes:** These all discuss Java as it was the only programming language to exist for a long time before lesser languages like SELF, Smalltalk, C, Ruby, etc. were discovered.
